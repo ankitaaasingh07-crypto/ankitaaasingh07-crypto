@@ -1,4 +1,6 @@
-[![@abhinendrayadav3's Holopin board](https://holopin.me/abhinendrayadav3)](https://holopin.io/@abhinendrayadav3)
+<p align="center">
+  <img src="github banner jpg.jpg" width="100%" alt="GitHub Banner" height="350">
+</p>
 
 <h1 align="center">Hello👋, I'm Ankita Singh</h1>
 <h3 align="center"> Building, learning, and growing every day 💻</h3>
