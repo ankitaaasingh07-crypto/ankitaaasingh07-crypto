@@ -1,37 +1,552 @@
 <p align="center">
-  <img src="github banner jpg.jpg" width="100%" alt="GitHub Banner" height="350">
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,25:6D28D9,50:7C3AED,75:4F46E5,100:312E81&text=ANKITA%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20•%20Software%20Developer%20•%20Open%20Source%20Contributor&descAlignY=60"/>
 </p>
 
-<h1 align="center">Hello👋, I'm Ankita Singh</h1>
-<h3 align="center"> Building, learning, and growing every day 💻</h3>
+<p align="center">
 
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Electronics+%26+Telecommunication+Engineering+Student;Aspiring+Software+Engineer;AI+%7C+Machine+Learning+%7C+Full+Stack+Development;Open+Source+Contributor;Building+Technology+That+Creates+Real+Impact"/>
 
-###
+</p>
+<hr>
+<p align="center">
+  <img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Telecommunication-6D28D9?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/CGPA-9.5-4F46E5?style=for-the-badge" />
+</p>
 
-<img align="right" height="160" src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExNHFyOWdzZnBreHM3bWgzNHo1a284aW84ZmVseHh1c2Y4ZGNyMHZrNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/JIX9t2j0ZTN9S/giphy.gif"  />
+<p align="center">
+  <img src="https://img.shields.io/badge/SheFi-Scholar-purple?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/GSSoC-Open%20Source-blueviolet?style=for-the-badge" />
+</p>
+<hr>
+<p align="center">
 
-###
-- 🔭 I’m currently working on **Open Source Contributions**
-  
-- 🌱 I’m currently learning **MySQL and programming languages**
+<a href="https://maps.google.com/?q=Pune,Maharashtra">
+<img src="https://img.shields.io/badge/Pune-Maharashtra-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
+</a>
 
-- 💬 Ask me about **C,C++,python,HTML,CSS**  
+<a href="mailto:ankitaaa.singh07@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail"/>
+</a>
 
-- 📫 How to reach me **ankitaaa.singh07@gmail.com**
+<a href="https://linkedin.com/in/ankita-singh-c7">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+</a>
 
-<h3 align="left">Connect with me:</h3> 
-<p align="left">
-<a href="https://www.linkedin.com/in/ankita-singh-c7" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="www.linkedin.com/in/ankita-singh-c7" height="30" width="40" /></a>
-<a href="https://www.instagram.com/ankitaa.ish?igsh=MTgxOXV1OXhnZWhtOQ==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_avvhii" height="30" width="40" /></a>
-</p> 
+<a href="https://github.com/ankitaaasingh07-crypto">
+<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
+</a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> </p>
+<a href="#">
+<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge"/>
+</a>
+
+</p>
+<hr>
+
+# About Me
+
+I'm an Electronics & Telecommunication Engineering student passionate about building intelligent software systems that combine Artificial Intelligence, scalable backend engineering, and modern web technologies.
+
+Rather than simply writing code, I enjoy solving real engineering problems through automation, machine learning, cloud computing, and product-oriented development.
+
+My long-term goal is to become an AI Engineer / Software Engineer capable of designing large-scale systems that impact millions of users.
+
+Currently I'm actively contributing to Open Source, strengthening Data Structures & Algorithms, exploring Full Stack Development, and expanding my expertise in Machine Learning, LLMs, Cloud Computing, and Software Architecture.
+
 ---
 
+## Open To
+
+✅ Software Engineering Internships
+
+✅ AI/ML Internships
+
+✅ Full Stack Development
+
+✅ Research Collaborations
+
+✅ Open Source Contributions
+
+✅ Hackathons
+
+✅ Startup Projects
+
+✅ Product Engineering
+
+---
+
+# Tech Stack
+
+## Languages
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c"/>
+
+</p>
+
+---
+
+## Frontend
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=html,css"/>
+
+</p>
+
+---
+
+## Cloud • DevOps • Tooling
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=git,github,linux,vscode,aws"/>
+
+</p>
+
+---
+
+# AI / ML Expertise
+
+| Domain | Proficiency | Details |
+|---------|------------|----------|
+| Machine Learning | ★★★★☆ | Classical ML, supervised & unsupervised learning |
+| Deep Learning | ★★★☆☆ | Neural networks, CNN fundamentals |
+| Computer Vision | ★★★☆☆ | Image classification and OpenCV fundamentals |
+| Generative AI | ★★★★☆ | Prompt Engineering, AI Agents, LLM workflows |
+| Data Analysis | ★★★★☆ | Python, Pandas, NumPy |
+| AI Product Engineering | ★★★★☆ | AI-first product thinking and automation |
+
+---
+
+# Featured Projects
+
+<details>
+
+<summary>
+
+### Highlights
+
+- AI-driven creator analysis
+- Audience behavior prediction
+- Trend detection
+- Content similarity engine
+- Brand compatibility scoring
+- Marketing intelligence dashboard
+
+</details>
+
+# Professional Experience
+
+## Innovation Team Volunteer
+### College Technical Fest • Pune, India
+
+**Duration:** March 2026 – April 2026
+
+Worked with the organizing committee to successfully coordinate one of the college's flagship technical events while ensuring smooth participant experience and operational excellence.
+
+### Scope of Work
+
+- Coordinated participant registrations and event logistics
+- Collaborated with cross-functional student teams
+- Assisted in planning technical events
+- Ensured seamless event execution
+- Managed volunteer coordination
+- Improved communication between organizing committees
+
+### Skills Applied
+
+<p>
+
+![](https://img.shields.io/badge/Leadership-6D28D9?style=flat-square)
+
+![](https://img.shields.io/badge/Teamwork-4F46E5?style=flat-square)
+
+![](https://img.shields.io/badge/Event%20Management-7C3AED?style=flat-square)
+
+![](https://img.shields.io/badge/Communication-5B21B6?style=flat-square)
+
+![](https://img.shields.io/badge/Problem%20Solving-4338CA?style=flat-square)
+
+</p>
+
+---
+
+## Open Source Contributor
+
+### GirlScript Summer of Code (GSSoC)
+
+Contributing to open-source repositories while collaborating with developers worldwide.
+
+### Responsibilities
+
+- Feature development
+- Bug fixing
+- Documentation improvements
+- Code reviews
+- Git workflow
+- Collaboration with maintainers
+
+### Skills
+
+<p>
+
+![](https://img.shields.io/badge/Open%20Source-6D28D9?style=flat-square)
+
+![](https://img.shields.io/badge/Git-4F46E5?style=flat-square)
+
+![](https://img.shields.io/badge/GitHub-181717?style=flat-square)
+
+![](https://img.shields.io/badge/Collaboration-7C3AED?style=flat-square)
+
+</p>
+
+---
+
+## SheFi Scholar
+
+### Web3 & Blockchain Learning Program
+
+Selected as a **SheFi Scholar**, exploring blockchain technologies, decentralized applications, digital assets, and the future of Web3 ecosystems.
+
+### Focus Areas
+
+- Blockchain Fundamentals
+- Smart Contracts
+- Decentralized Finance (DeFi)
+- Web3 Ecosystem
+- Community Building
+
+### Skills
+
+<p>
+
+![](https://img.shields.io/badge/Web3-6D28D9?style=flat-square)
+
+![](https://img.shields.io/badge/Blockchain-7C3AED?style=flat-square)
+
+![](https://img.shields.io/badge/Research-4F46E5?style=flat-square)
+
+</p>
+
+---
+
+# Education
+
+| Qualification | Institute | Performance |
+|---------------|-----------|------------|
+| B.Tech Electronics & Telecommunication | MKSSS Cummins College of Engineering for Women | **CGPA: 9.5** |
+| Higher Secondary (HSC) | Nirmala Memorial Foundation College | **79%** |
+| Secondary (CBSE) | Ryan International School | **92%** |
+
+---
+
+# Leadership & Campus Involvement
+
+| Organization | Role |
+|--------------|------|
+| College Magazine (Kshitij) | Student Member |
+| Innovation Team | Volunteer |
+| Technical Events | Coordinator |
+| Open Source Community | Contributor |
+
+---
+
+# Achievements
+
+<div align="center">
+
+| Recognition | Details |
+|--------------|---------|
+| Academic Excellence | 9.5 CGPA in First Year Engineering |
+| JEE Main | 95.03 Percentile |
+| MHT-CET | 98.61 Percentile |
+| Open Source | GirlScript Summer of Code Contributor |
+| Global Scholar | SheFi Season 16 Scholar |
+| Sports | MSSA Football Runner-up |
+| Literature | 2nd Place - Zonal Poetry Competition |
+
+
+</div>
+
+---
+
+
+# Coding Profiles
+
+<div align="center">
+
+<a href="https://leetcode.com/ankitaaasingh07-crypto">
+
+<img src="https://img.shields.io/badge/LeetCode-Competitive%20Programming-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
+
+</a>
+
+<br><br>
+
+<a href="https://www.geeksforgeeks.org/user/ankitaaasingh07-crypto/">
+
+<img src="https://img.shields.io/badge/GeeksforGeeks-Coding-2F8D46?style=for-the-badge&logo=geeksforgeeks"/>
+
+</a>
+
+<br><br>
+
+<a href="https://www.hackerrank.com/ankitaaasingh07-crypto">
+
+<img src="https://img.shields.io/badge/HackerRank-Programming-00EA64?style=for-the-badge&logo=hackerrank&logoColor=black"/>
+
+</a>
+
+<br><br>
+
+</div>
+
+---
+
+# Technical Competencies
+
+| Category | Technologies |
+|------------|--------------|
+| Languages | Python • C++ • C |
+| Frontend | HTML • CSS |
+| Database | MySQL  |
+| AI | Machine Learning • Deep Learning |
+| Version Control | Git • GitHub |
+| Design | Canva • Adobe Express |
+| Productivity | MS Office • VS Code |
+
+---
+
+# Soft Skills
+
+<div align="center">
+
+![](https://img.shields.io/badge/Leadership-6D28D9?style=for-the-badge)
+
+![](https://img.shields.io/badge/Communication-7C3AED?style=for-the-badge)
+
+![](https://img.shields.io/badge/Teamwork-4F46E5?style=for-the-badge)
+
+![](https://img.shields.io/badge/Critical%20Thinking-5B21B6?style=for-the-badge)
+
+![](https://img.shields.io/badge/Problem%20Solving-4338CA?style=for-the-badge)
+
+![](https://img.shields.io/badge/Product%20Mindset-6D28D9?style=for-the-badge)
+
+![](https://img.shields.io/badge/Continuous%20Learning-7C3AED?style=for-the-badge)
+
+</div>
+---
 ## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/abhinendraSingh3/abhinendraSingh3/output/github-snake-dark.svg" alt="Snake animation" />
 </p>
 
 <br clear="both">
+
+# Contribution Activity
+
+<p align="center">
+
+<p align="center">
+
+<img width="100%"
+src="https://github-readme-activity-graph.vercel.app/graph?username=ankitaaasingh07-crypto&theme=tokyo-night&hide_border=true&area=true"/>
+
+</p>
+---
+
+> **GitHub Action Workflow Required**
+
+Create:
+
+```
+.github/workflows/snake.yml
+```
+
+using **Platane/snk** to automatically generate your snake animation.
+
+---
+
+# Development Metrics
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ankitaaasingh07-crypto&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ankitaaasingh07-crypto&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ankitaaasingh07-crypto&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ankitaaasingh07-crypto&theme=tokyonight"/>
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ankitaaasingh07-crypto&theme=tokyonight&utcOffset=5.5"/>
+
+</p>
+
+---
+
+# Current Focus
+
+```yaml
+name: Ankita Singh
+
+currently_learning:
+  - Data Structures & Algorithms
+  - Machine Learning
+  - Deep Learning
+  - Generative AI
+  - Large Language Models
+  - Cloud Computing
+  - System Design
+  - Backend Engineering
+
+currently_building:
+  - AI Creator Intelligence Platform
+  - Open Source Projects
+  - AI Automation Tools
+
+currently_exploring:
+  - Agentic AI
+  - Vector Databases
+  - Web3 Technologies
+  - AWS Cloud
+
+open_to:
+  - Software Engineering Internship
+  - AI/ML Internship
+  - Product Engineering
+  - Open Source Collaboration
+  - Hackathons
+  - Research Projects
+  - Startup Opportunities
+
+goal:
+  Become an AI Engineer building intelligent products
+  that solve real-world problems at global scale.
+
+philosophy:
+  Learn continuously.
+  Build consistently.
+  Share knowledge.
+  Create impact.
+```
+
+---
+
+# 2026 Goals
+
+| Goal | Status |
+|-------|--------|
+| ⭐ Solve 500+ DSA Problems | 🚀 In Progress |
+| ⭐ Build AI SaaS Products | 🚀 In Progress |
+| ⭐ Contribute to Open Source | 🚀 Active |
+| ⭐ Learn Advanced Machine Learning | 🚀 Ongoing |
+| ⭐ Master Full Stack Development | 🚀 Ongoing |
+| ⭐ AWS Cloud Certification | 🎯 Planned |
+| ⭐ Publish Technical Articles | 🎯 Planned |
+| ⭐ Participate in Global Hackathons | 🚀 Active |
+
+---
+
+# Currently Working With
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python"/>
+
+<img src="https://skillicons.dev/icons?i=cpp"/>
+
+<img src="https://skillicons.dev/icons?i=git"/>
+
+<img src="https://skillicons.dev/icons?i=github"/>
+
+<img src="https://skillicons.dev/icons?i=aws"/>
+
+</p>
+
+---
+
+# Let's Connect
+
+<p align="center">
+
+<a href="mailto:ankitaaa.singh07@gmail.com">
+
+<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+
+</a>
+
+<a href="https://linkedin.com/in/ankita-singh-c7">
+
+<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+</a>
+
+<a href="https://github.com/ankitaaasingh07-crypto">
+
+<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
+
+</a>
+
+<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel"/>
+
+</a>
+
+</p>
+
+---
+
+# Support My Work
+
+<p align="center">
+
+<a href="https://github.com/ankitaaasingh07-crypto?tab=repositories">
+
+<img src="https://img.shields.io/badge/Open%20Source-Contributions-6D28D9?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://github.com/ankitaaasingh07-crypto?tab=stars">
+
+<img src="https://img.shields.io/badge/Star-My%20Repositories-7C3AED?style=for-the-badge&logo=github"/>
+
+</a>
+
+<a href="https://github.com/ankitaaasingh07-crypto?tab=followers">
+
+<img src="https://img.shields.io/badge/Follow-My%20Journey-4F46E5?style=for-the-badge&logo=github"/>
+
+</a>
+
+</p>
+
+---
+
+<p align="center">
+
+## "Building software isn't just about writing code—it's about creating solutions that make a meaningful impact."
+
+</p>
+
+<p align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=0:312E81,25:4F46E5,50:6D28D9,75:7C3AED,100:8B5CF6"/>
+
+</p>
+
+<p align="center">
+
+**⭐ Thanks for visiting my profile! If you like my work, consider following me and starring my repositories.**
+
+</p>
