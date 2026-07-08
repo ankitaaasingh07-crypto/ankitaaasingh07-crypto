@@ -1,46 +1,40 @@
 <p align="center">
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:5B21B6,25:6D28D9,50:7C3AED,75:4F46E5,100:312E81&text=ANKITA%20SINGH&fontSize=55&fontColor=ffffff&fontAlignY=40&desc=AI%20Engineer%20•%20Software%20Developer%20•%20Open%20Source%20Contributor&descAlignY=60"/>
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=280&color=0:0F172A,20:1E3A8A,40:4338CA,65:6D28D9,85:7C3AED,100:A855F7&text=ANKITA%20SINGH&fontSize=55&fontColor=FFFFFF&fontAlignY=40&desc=AI%20Engineer%20•%20Software%20Developer%20•%20Open%20Source%20Contributor&descAlignY=60"/>
 </p>
 
 <p align="center">
-
-<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=26&pause=1000&color=8B5CF6&center=true&vCenter=true&width=900&lines=Electronics+%26+Telecommunication+Engineering+Student;Aspiring+Software+Engineer;AI+%7C+Machine+Learning+%7C+Full+Stack+Development;Open+Source+Contributor;Building+Technology+That+Creates+Real+Impact"/>
-
-</p>
-<hr>
-<p align="center">
-  <img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Telecommunication-6D28D9?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/CGPA-9.5-4F46E5?style=for-the-badge" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=27&duration=3500&pause=1000&color=C4B5FD&center=true&vCenter=true&width=950&lines=Electronics+%26+Telecommunication+Engineering+Student;Aspiring+Software+Engineer;AI+%7C+Machine+Learning+%7C+Full+Stack+Development;Open+Source+Contributor;Building+Technology+That+Creates+Real+Impact"/>
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/SheFi-Scholar-purple?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/GSSoC-Open%20Source-blueviolet?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/B.Tech-Electronics%20%26%20Telecommunication-4338CA?style=for-the-badge&logo=academia&logoColor=white"/>
+  <img src="https://img.shields.io/badge/CGPA-9.5-7C3AED?style=for-the-badge&logo=google-scholar&logoColor=white"/>
+  <img src="https://img.shields.io/badge/SheFi-Scholar-A855F7?style=for-the-badge&logo=ethereum&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GSSoC-Open%20Source-2563EB?style=for-the-badge&logo=github&logoColor=white"/>
 </p>
-<hr>
+
 <p align="center">
+  <a href="https://maps.google.com/?q=Pune,Maharashtra">
+    <img src="https://img.shields.io/badge/📍%20Pune-Maharashtra-334155?style=for-the-badge"/>
+  </a>
 
-<a href="https://maps.google.com/?q=Pune,Maharashtra">
-<img src="https://img.shields.io/badge/Pune-Maharashtra-312E81?style=for-the-badge&logo=googlemaps&logoColor=white"/>
-</a>
+  <a href="mailto:ankitaaa.singh07@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 
-<a href="mailto:ankitaaa.singh07@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-6D28D9?style=for-the-badge&logo=gmail"/>
-</a>
+  <a href="https://linkedin.com/in/ankita-singh-c7">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
 
-<a href="https://linkedin.com/in/ankita-singh-c7">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-</a>
+  <a href="https://github.com/ankitaaasingh07-crypto">
+    <img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
 
-<a href="https://github.com/ankitaaasingh07-crypto">
-<img src="https://img.shields.io/badge/GitHub-Profile-181717?style=for-the-badge&logo=github"/>
-</a>
-
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge"/>
-</a>
-
+  <a href="#">
+    <img src="https://img.shields.io/badge/Portfolio-Coming%20Soon-7C3AED?style=for-the-badge&logo=vercel&logoColor=white"/>
+  </a>
 </p>
+
 <hr>
 
 # About Me
@@ -476,64 +470,6 @@ philosophy:
 </p>
 
 ---
-
-# Let's Connect
-
-<p align="center">
-
-<a href="mailto:ankitaaa.singh07@gmail.com">
-
-<img src="https://img.shields.io/badge/Gmail-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
-
-</a>
-
-<a href="https://linkedin.com/in/ankita-singh-c7">
-
-<img src="https://img.shields.io/badge/LinkedIn-Let's%20Connect-0A66C2?style=for-the-badge&logo=linkedin"/>
-
-</a>
-
-<a href="https://github.com/ankitaaasingh07-crypto">
-
-<img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github"/>
-
-</a>
-
-<img src="https://img.shields.io/badge/Portfolio-Visit-6D28D9?style=for-the-badge&logo=vercel"/>
-
-</a>
-
-</p>
-
----
-
-# Support My Work
-
-<p align="center">
-
-<a href="https://github.com/ankitaaasingh07-crypto?tab=repositories">
-
-<img src="https://img.shields.io/badge/Open%20Source-Contributions-6D28D9?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://github.com/ankitaaasingh07-crypto?tab=stars">
-
-<img src="https://img.shields.io/badge/Star-My%20Repositories-7C3AED?style=for-the-badge&logo=github"/>
-
-</a>
-
-<a href="https://github.com/ankitaaasingh07-crypto?tab=followers">
-
-<img src="https://img.shields.io/badge/Follow-My%20Journey-4F46E5?style=for-the-badge&logo=github"/>
-
-</a>
-
-</p>
-
----
-
-<p align="center">
 
 ## "Building software isn't just about writing code—it's about creating solutions that make a meaningful impact."
 
