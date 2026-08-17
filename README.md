@@ -298,54 +298,6 @@ Selected as a **SheFi Scholar**, exploring blockchain technologies, decentralize
 
 </div>
 ---
-# Current Focus
-
-```yaml
-name: Ankita Singh
-
-currently_learning:
-  - Data Structures & Algorithms
-  - Machine Learning
-  - Deep Learning
-  - Generative AI
-  - Large Language Models
-  - Cloud Computing
-  - System Design
-  - Backend Engineering
-
-currently_building:
-  - AI Creator Intelligence Platform
-  - Open Source Projects
-  - AI Automation Tools
-
-currently_exploring:
-  - Agentic AI
-  - Vector Databases
-  - Web3 Technologies
-  - AWS Cloud
-
-open_to:
-  - Software Engineering Internship
-  - AI/ML Internship
-  - Product Engineering
-  - Open Source Collaboration
-  - Hackathons
-  - Research Projects
-  - Startup Opportunities
-
-goal:
-  Become an AI Engineer building intelligent products
-  that solve real-world problems at global scale.
-
-philosophy:
-  Learn continuously.
-  Build consistently.
-  Share knowledge.
-  Create impact.
-```
-
-
----
 
 # Currently Working With
 
